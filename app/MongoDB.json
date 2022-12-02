@@ -1,0 +1,21 @@
+{
+    "Remitente":{
+        "Nombre": "Jonathan",
+        "Telefono":3123733895,
+        "Fecha_envio":"1/12/2022",
+        "Hora_envio":"5:18"
+    },
+    "Resecciona":{
+        "Nombre": " Sebastian",
+        "Telefono":3123454345
+
+    },
+    "Paquete":{
+        "Pais": "Colombia",
+        "direccion_envio": "Cll 12 #15-64",
+        "codigo_postal": 34435523,
+        "Estado_paquete": "Enviado"
+    },
+    "id_envio":"ENV-0001"
+
+}
